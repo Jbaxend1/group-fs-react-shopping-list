@@ -15,7 +15,7 @@ We want to store a list of items to buy in a database, so we can build up our li
 
 - [x] Create database in Postico
 - [ ] Create a form for new items (name, quantity, unit)
-- [ ] GET to append the table of shopping items
+- [x] GET to append the table of shopping items
 - [ ] DELETE function specific item from shopping list
 - [ ] PUT to updated once purchased
 - [ ] PUT to reset all items
